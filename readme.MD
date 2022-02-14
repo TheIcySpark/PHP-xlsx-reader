@@ -1,7 +1,6 @@
 # Lectura XlSX con php
 ## Preparacion
-- 1: 1: Se utiliza la libreria phpSpreadsheet's: https://phpspreadsheet.readthedocs.io/en/latest/
--  2: para su instalacion de las dependencias utilize el siguiente comando: composer install   (composer debe estar instalado)
+- Se utiliza la libreria phpSpreadsheet's: https://phpspreadsheet.readthedocs.io/en/latest/ para su instalacion y la de las dependencias utilize el siguiente comando: composer install (composer debe estar instalado)
 
 ## Uso
 - Para su uso solo se necesario iniciar un puerto para php (como puede ser con xampp)
